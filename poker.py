@@ -1,3 +1,5 @@
+from getopt import gnu_getopt
+
 from deck import Deck, Card
 
 class PokerHand:
