@@ -1,4 +1,4 @@
-from Deck import Deck, Card
+from deck import Deck, Card
 
 class PokerHand:
     def __init__(self, deck):
